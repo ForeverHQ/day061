@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MS-20160719EJCM",
+    "children" : [ {
+      "name" : "1816-MainThread",
+      "children" : [ {
+        "name" : "Test01.test01",
+        "uid" : "26badae5070a4f05",
+        "parentUid" : "b595136f3f92ec0cb6079e0e2aade2ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552899647305,
+          "stop" : 1552899647311,
+          "duration" : 6
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Test01.test02",
+        "uid" : "da84577c53878cfb",
+        "parentUid" : "b595136f3f92ec0cb6079e0e2aade2ef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1552899647333,
+          "stop" : 1552899647335,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b595136f3f92ec0cb6079e0e2aade2ef"
+    } ],
+    "uid" : "a94bac31c12c38397d8971f403e1061b"
+  } ]
+}
